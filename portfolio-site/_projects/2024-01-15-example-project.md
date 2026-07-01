@@ -1,0 +1,40 @@
+---
+title: "Project Title Here"
+excerpt: "One-sentence summary that shows up in the projects grid/preview."
+header:
+  teaser: /assets/images/project1-teaser.jpg   # small preview image, or delete this block
+categories:
+  - research        # or "applied" — pick one or both
+tags:
+  - machine-learning
+  - python
+date: 2024-01-15    # roughly when you did this
+---
+
+<!-- Copy this file for each project. Rename it something like
+     _projects/short-project-name.md -->
+
+## Overview
+
+[1-2 sentences: what is this project, what problem does it address]
+
+## My Role / Contribution
+
+[What specifically you did — be concrete. "Built X", "Analyzed Y", "Led Z"]
+
+## Approach
+
+[Brief technical description — methods, tools, techniques used]
+
+## Results / Outcome
+
+[What happened — quantify if you can. Grades, publication, deployment,
+performance numbers, etc.]
+
+## Links
+
+- [GitHub repo](#)
+- [Paper / writeup](#)
+- [Live demo](#)
+
+<!-- PASTE YOUR PROJECT DESCRIPTION HERE, replacing placeholders above -->
