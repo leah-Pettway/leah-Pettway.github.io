@@ -1,15 +1,15 @@
 # ===== SITE SETTINGS =====
-title: "Your Name"                          # <-- replace
+title: "Portfolio-Leah Pettway"                          # <-- replace
 title_separator: "-"
-name: "Your Name"                           # <-- replace
-description: "Portfolio of [Your Field] research and applied projects"   # <-- replace
-url: "https://yourusername.github.io"       # <-- replace with your actual GitHub Pages URL
+name: "Leah Pettway"                           # <-- replace
+description: "Portfolio of Academic research and applied projects"   # <-- replace
+url: "https://leah-Pettway.github.io"       # <-- replace with your actual GitHub Pages URL
 baseurl: ""
 locale: "en-US"
 
 # ===== THEME =====
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default"            # options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
+minimal_mistakes_skin: "air"            # options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
 
 # ===== BUILD SETTINGS =====
 markdown: kramdown
@@ -26,29 +26,26 @@ plugins:
 
 # ===== AUTHOR (shows in sidebar) =====
 author:
-  name: "Your Name"                         # <-- replace
+  name: "Leah Pettway"                         # <-- replace
   avatar: "/assets/images/headshot.jpg"     # <-- add a photo here, or delete this line to skip
   bio: "One-line bio that bridges research + applied interests"   # <-- replace
-  location: "City, Country"                 # <-- replace
+  location: "Long Beach, CA"                 # <-- replace
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:you@email.com"           # <-- replace
+      url: "mailto:leahlamarre@gmail.com"           # <-- replace
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/yourprofile"   # <-- replace
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/yourusername"       # <-- replace
-    - label: "Google Scholar"                # delete if not applicable
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=XXXX"
+      url: "https://github.com/leah-Pettway"       # <-- replace
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/yourusername"
+      url: "https://github.com/leah-Pettway"
 
 # ===== COLLECTIONS (this is what makes /projects/ work) =====
 collections:

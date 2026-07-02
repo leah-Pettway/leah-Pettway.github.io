@@ -5,14 +5,13 @@ permalink: /contact/
 author_profile: true
 ---
 
-I'm happy to hear from you — whether about research collaboration,
-opportunities, or just to chat about [your field].
+If you would like further discussion about my projects, research, or similiar interests then please use the provided information.
 
-**Email:** [you@email.com](mailto:you@email.com)
+**Email:** [leahlamarre@gmail.com](mailto:leahlamarre@gmail.com)
 
-**LinkedIn:** [linkedin.com/in/yourprofile](#)
+**LinkedIn:** [linkedin.com/in/leahpettway](#)
 
-**GitHub:** [github.com/yourusername](#)
+**GitHub:** [github.com/leah-Pettway](#)
 
-<!-- Keep this short. The links in your sidebar already cover most of this
-     — this page is mostly a courtesy/reinforcement. -->
+
+
