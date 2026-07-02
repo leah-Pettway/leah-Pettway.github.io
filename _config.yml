@@ -2,7 +2,7 @@
 title: "Portfolio-Leah Pettway"                          
 title_separator: "-"
 name: "Leah Pettway"                           
-description: "Portfolio of Academic research and applied projects"   # <-- replace
+description: "Portfolio of Academic research and applied projects"   
 url: "https://leah-Pettway.github.io"       
 baseurl: ""
 locale: "en-US"
@@ -24,10 +24,10 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-# ===== AUTHOR (shows in sidebar) =====
+# ===== AUTHOR sidebar=====
 author:
   name: "Leah Pettway"                         
-  avatar: "/assets/images/headshot.jpg"     # <-- add a photo here, or delete this line to skip
+  avatar: "/assets/images/headshot.jpg"     
   bio: "A recent graduate from UCSB interested in spatial data applications in the Environmental and urban planning fields."   
   location: "Long Beach, CA"                 
   links:
@@ -47,7 +47,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/leah-Pettway"
 
-# ===== COLLECTIONS (this is what makes /projects/ work) =====
+# ===== COLLECTIONS  =====
 collections:
   projects:
     output: true
