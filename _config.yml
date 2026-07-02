@@ -1,15 +1,15 @@
 # ===== SITE SETTINGS =====
-title: "Portfolio-Leah Pettway"                          # <-- replace
+title: "Portfolio-Leah Pettway"                          
 title_separator: "-"
-name: "Leah Pettway"                           # <-- replace
+name: "Leah Pettway"                           
 description: "Portfolio of Academic research and applied projects"   # <-- replace
-url: "https://leah-Pettway.github.io"       # <-- replace with your actual GitHub Pages URL
+url: "https://leah-Pettway.github.io"       
 baseurl: ""
 locale: "en-US"
 
 # ===== THEME =====
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air"            # options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
+minimal_mistakes_skin: "air"            
 
 # ===== BUILD SETTINGS =====
 markdown: kramdown
@@ -26,20 +26,20 @@ plugins:
 
 # ===== AUTHOR (shows in sidebar) =====
 author:
-  name: "Leah Pettway"                         # <-- replace
+  name: "Leah Pettway"                         
   avatar: "/assets/images/headshot.jpg"     # <-- add a photo here, or delete this line to skip
-  bio: "One-line bio that bridges research + applied interests"   # <-- replace
-  location: "Long Beach, CA"                 # <-- replace
+  bio: "A recent graduate from UCSB interested in spatial data applications in the Environmental and urban planning fields."   
+  location: "Long Beach, CA"                 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:leahlamarre@gmail.com"           # <-- replace
+      url: "mailto:leahlamarre@gmail.com"           
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/yourprofile"   # <-- replace
+      url: "https://linkedin.com/in/leahpettway"   
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/leah-Pettway"       # <-- replace
+      url: "https://github.com/leah-Pettway"       
 
 footer:
   links:
@@ -70,18 +70,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      related: true
-
-  # posts (optional, in case you add a blog later)
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
       share: true
       related: true
 
