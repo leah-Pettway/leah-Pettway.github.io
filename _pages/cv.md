@@ -23,7 +23,7 @@ author_profile: true
 
 ## Work Experience
 
-**[Conference Desk Attendent], [Company]** — [2024-2025]
+**[Conference Desk Attendent], [UCSB Conference and Hospitality Services]** — [2024-2025]
 : [2-3 bullet points, quantify impact where possible]
 
 ## Skills
