@@ -11,20 +11,20 @@ author_profile: true
 ## Education
 
 **[B.S Environmental Studies], [UCSB]** — [2026]
-: [1-2 line description: thesis topic, advisor, honors]
+: [Study of The natural and built environment with a coursework emphasis on critically and quanititatively analyzing components.]
 
 **[B.A Geography GIS Emphasis], [UCSB]** — [2026]
-: [1-2 line description]
+: [Study of Geography With a focus in Coursework on GIScience including Remote sensing and GIS applications. ]
 
 ## Research Experience
 
 **[Research Assistant], [UCSB Cheadle Center/ UCI Hammer Lab]** — [2024-2026]
-: [What you did, 2-3 bullet points. Lead with impact/findings, not just tasks.]
+: [ - Oversaw the collection of specimens across two coastal wetland sites, including active and passive methods of capture. also reocurring land surveys of the respective sites]
 
 ## Work Experience
 
 **[Conference Desk Attendent], [UCSB Conference and Hospitality Services]** — [2024-2025]
-: [2-3 bullet points, quantify impact where possible]
+: [ -]
 
 ## Skills
 
