@@ -19,16 +19,19 @@ author_profile: true
 ## Research Experience
 
 **[Research Assistant], [UCSB Cheadle Center/ UCI Hammer Lab]** — [2024-2026]
-: [ - Oversaw the collection of specimens across two coastal wetland sites, including active and passive methods of capture. also reocurring land surveys of the respective sites]
+- [Designed my own workflow to analyze the eight wetland sites over the course of twenty years and the subsequent potential change in impervious surfaces.]
+- :[Oversaw the collection of specimens across two coastal wetland sites, including active and passive methods of capture. also reocurring land surveys of the respective sites]
 
 ## Work Experience
 
 **[Conference Desk Attendent], [UCSB Conference and Hospitality Services]** — [2024-2025]
-: [ -]
+- [ Managed the organization and filing of room assignments as well as the physical keys.]
+- :[Facilitated the registration of multiple events and clients. while maintaining consistent hospitality and customer service.]
+- [Handled administrative and customer interactions and communications]
 
 ## Skills
 
-**Technical:** [Arcgis Pro, Google Earth Engine, Python, R]
+**Technical:** [Arcgis Pro, Google Earth Engine, Python(colab, arcpy), R]
 
 **Other:** [languages spoken, certifications, etc.]
 
