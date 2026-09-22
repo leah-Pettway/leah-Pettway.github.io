@@ -32,8 +32,6 @@ author_profile: true
 
 **Technical:** [Arcgis Pro, Google Earth Engine, Python(colab, arcpy), R]
 
-
-
 ## Awards & Honors
 
 - [Outstanding Achievement in The Geography Major], [2026]
