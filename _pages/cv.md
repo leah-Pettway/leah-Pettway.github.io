@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-[**Download PDF version**](/assets/files/your-cv.pdf){: .btn .btn--primary}
+[**Download PDF version**](/assets/files/Leah-Pettway_cv.pdf){: .btn .btn--primary}
 
 
 ## Education
