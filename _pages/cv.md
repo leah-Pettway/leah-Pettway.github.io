@@ -7,7 +7,6 @@ author_profile: true
 
 [**Download PDF version**](/assets/files/Leah-Pettway_cv.pdf){: .btn .btn--primary}
 
-
 ## Education
 
 **[B.S Environmental Studies], [UCSB]** — [2026]
@@ -33,7 +32,7 @@ author_profile: true
 
 **Technical:** [Arcgis Pro, Google Earth Engine, Python(colab, arcpy), R]
 
-**Other:** [languages spoken, certifications, etc.]
+
 
 ## Awards & Honors
 
